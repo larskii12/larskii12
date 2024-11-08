@@ -1,36 +1,36 @@
-# 💻 Lara's Developer Portfolio 
+# 👩‍💻 Lara's Developer Portfolio 
 Welcome to my portfolio! Here you'll find details about the technologies I work with and some answers to questions about my current projects, learning path, and interests.
 
-## My Website ![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)
+## 💻 My Website ![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)
 Still currently working on the website, refer to my old projects pinned down below!
 
 ## 🧩 Profile Q&A
-🔭 I’m currently working on
+#### 🔭 I’m currently working on:
 A Convolutional Neural Network for image processing and a stability prediction model using advanced AI techniques. Recently, I also contributed as a Scrum Master and technical lead for a mobile app project focused on reuniting lost pets with their owners.
 
-🌱 I’m currently learning
+#### 🌱 I’m currently learning 
 Advanced image processing techniques, machine learning model optimization, and scaling backend systems with Spring Boot and FastAPI.
 
-👯 I’m looking to collaborate on
+#### 👯 I’m looking to collaborate on 
 Machine learning, computer vision, or any innovative software development projects where I can contribute my backend and AI expertise.
 
-🤔 I’m looking for help with
+#### 🤔 I’m looking for help with 
 Exploring real-world applications for image processing models, especially in the area of predictive analytics and stability prediction.
 
-💬 Ask me about
+#### 💬 Ask me about 
 Java Spring Boot, MERN and MEVN stacks, data science, or my experience working on mobile and AI/ML projects.
 
-📫 How to reach me
-LinkedIn: [Lara Tria](https://www.linkedin.com/in/laradell-tria-a5b191182/)
+#### 📫 How to reach me 
+LinkedIn: [Lara Tria](https://www.linkedin.com/in/laradell-tria-a5b191182/) \
 Email: laradell12tria@gmail.com
 
-😄 Pronouns
+#### 😄 Pronouns 
 She/Her
 
-⚡ Fun fact
+#### ⚡ Fun fact 
 I’m passionate about mentoring and have been a part of various student ambassador and leadership programs to support others in their professional growth!
 
-💻 Operating Systems
+#### 💻 Operating Systems
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
