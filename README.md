@@ -1,8 +1,8 @@
-# 💻 Lara's Developer Portfolio
+# 💻 Lara's Developer Portfolio 
 Welcome to my portfolio! Here you'll find details about the technologies I work with and some answers to questions about my current projects, learning path, and interests.
 
-## Portoflio ![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)
-(WIP)
+## My Website ![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)
+Still currently working on the website, refer to my old projects pinned down below!
 
 ## 🧩 Profile Q&A
 🔭 I’m currently working on
@@ -37,7 +37,7 @@ I’m passionate about mentoring and have been a part of various student ambassa
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
-## Languages & Frameworks & Skills
+## My Technical Skills and Knowledge
 #### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
