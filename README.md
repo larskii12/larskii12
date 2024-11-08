@@ -1,10 +1,7 @@
 # 💻 Lara's Developer Portfolio
 Welcome to my portfolio! Here you'll find details about the technologies I work with and some answers to questions about my current projects, learning path, and interests.
 
-## Current Stats
-![larskii12's Stats](https://github-readme-stats.vercel.app/api?username=larskii12&show_icons=true&hide_border=true&count_private=true&border_radius=30&title_color=fffffd&text_color=fffffd&icon_color=fffffd&bg_color=60,f6c177,ebbcba,eb6f92,c4a7e7,31748f,9ccfd8)
-
-## Portoflio ![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
+## Portoflio ![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)
 (WIP)
 
 ## 🧩 Profile Q&A
@@ -34,6 +31,7 @@ She/Her
 I’m passionate about mentoring and have been a part of various student ambassador and leadership programs to support others in their professional growth!
 
 💻 Operating Systems
+
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -67,9 +65,9 @@ I’m passionate about mentoring and have been a part of various student ambassa
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg??style=for-the-badge&logo=go&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=fff&style=for-the-badge)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=fff)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
 
 #### Database
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -113,7 +111,7 @@ I’m passionate about mentoring and have been a part of various student ambassa
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=fff)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg??style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
